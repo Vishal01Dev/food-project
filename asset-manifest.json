@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/food-project/static/css/main.8282bf76.css",
+    "main.js": "/food-project/static/js/main.c0784d65.js",
+    "static/media/ban-1.jpg": "/food-project/static/media/ban-1.e3c5b3c0f3a63e4b2275.jpg",
+    "static/media/banner.png": "/food-project/static/media/banner.ba6fd6b0e0f86773fe04.png",
+    "static/media/instagram.png": "/food-project/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/pizza-3.jpg": "/food-project/static/media/pizza-3.bcc7442e66c23a92e605.jpg",
+    "static/media/fast-delivery.png": "/food-project/static/media/fast-delivery.298b627155ca2a07c4ae.png",
+    "static/media/main-dish.png": "/food-project/static/media/main-dish.192607aa5383939af2ef.png",
+    "static/media/user.png": "/food-project/static/media/user.8d49e377c7c342895ec2.png",
+    "static/media/pinterest.png": "/food-project/static/media/pinterest.e38f3012dc571ed17e78.png",
+    "static/media/all.png": "/food-project/static/media/all.f06652091ab3a692668a.png",
+    "static/media/cart.png": "/food-project/static/media/cart.31a556b17eb87f84703d.png",
+    "static/media/twitter.png": "/food-project/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/google-plus.png": "/food-project/static/media/google-plus.f67f15eb0b536f2a7dcd.png",
+    "static/media/pizza.png": "/food-project/static/media/pizza.5b03e8a90818352ea0ea.png",
+    "static/media/facebook.png": "/food-project/static/media/facebook.86b8c5a0e06db8f3d1a3.png",
+    "static/media/pp-4.webp": "/food-project/static/media/pp-4.e6763a294f495b0f823f.webp",
+    "static/media/pp-5.webp": "/food-project/static/media/pp-5.c408c5eb9b264c449fd4.webp",
+    "static/media/pp-3.webp": "/food-project/static/media/pp-3.66289957ee3d9cf98514.webp",
+    "static/media/pp-2.webp": "/food-project/static/media/pp-2.0bcc071794c6a37118c2.webp",
+    "static/media/pp-6.webp": "/food-project/static/media/pp-6.e06fab421facb443ba17.webp",
+    "index.html": "/food-project/index.html",
+    "main.8282bf76.css.map": "/food-project/static/css/main.8282bf76.css.map",
+    "main.c0784d65.js.map": "/food-project/static/js/main.c0784d65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8282bf76.css",
+    "static/js/main.c0784d65.js"
+  ]
+}
