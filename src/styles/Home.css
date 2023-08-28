@@ -1,0 +1,16 @@
+.activeclass {
+  position: relative;
+}
+
+.activeclass:after {
+  position: absolute;
+  content: "";
+  height: 4px;
+  bottom: 0;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  width: 40%;
+  border-radius: 20px;
+  background: #fe5432;
+}
