@@ -10,7 +10,7 @@ import './App.css'
 
 const App = () => {
 
-  const URL =  '/Hello';
+  const URL =  '/food-project';
 
 
   return (
